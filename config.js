@@ -146,7 +146,7 @@ var config = {
             alignment: 'center',
             hidden: false,
             title: '',
-            image: 'Images/IMG_5723.jpg',
+            image: 'Images/IMG_5723.JPG',
             description: '<center>The sprawling live oaks of New Orleans provide many good limbs for hanging swings. December 6, 2019.</center>',
             location: {
                 center: [-83.47267, 33.23336],
@@ -326,7 +326,7 @@ var config = {
             alignment: 'center',
             hidden: false,
             title: '',
-            image: 'Images/IMG_6486.jpg',
+            image: 'Images/IMG_6486.JPG',
             description: '<center>White Sands National Park. March 11, 2020.</center>',
             location: {
                 center: [-99.47264, 31.48752],
@@ -366,7 +366,7 @@ var config = {
             alignment: 'center',
             hidden: false,
             title: '',
-            image: 'Images/IMG_6505.jpg',
+            image: 'Images/IMG_6505.JPG',
             description: '<center>Spring wildflowers in the Organ Mountains, New Mexico. March 12, 2020.</center>',
             location: {
                 center: [-99.47264, 31.48752],
@@ -539,7 +539,7 @@ var config = {
             alignment: 'center',
             hidden: false,
             title: '',
-            image: 'Images/IMG_6798.jpg',
+            image: 'Images/IMG_6798.JPG',
             description: '<center>An unanticipated positive outcome of the pandemic: Josh joining widespread family members via Zoom to play boggle while at a rural campsite near Middlesboro, KY. June 5, 2020.</center>',
             location: {
                 center: [-84.88847, 36.99462],
@@ -581,7 +581,7 @@ var config = {
             alignment: 'center',
             hidden: false,
             title: '',
-            image: 'Images/IMG_6823.jpg',
+            image: 'Images/IMG_6823.JPG',
             description: '<center>A rhododendron flanked stream in Great Smoky Mountains National Park, TN. June 7, 2020.</center>',
             location: {
                 center: [-84.88847, 36.99462],
@@ -665,7 +665,7 @@ var config = {
             alignment: 'full',
             hidden: false,
             title: '',
-            image: 'Images/IMG_7057.jpg',
+            image: 'Images/IMG_7057.JPG',
             description: '<center>Having fun with panoramas and my sister Elayna in Gasworks Park, Seattle, WA. June 22, 2020.</center>',
             location: {
                 center: [-124.23627, 41.25699],
@@ -707,7 +707,7 @@ var config = {
             alignment: 'center',
             hidden: false,
             title: '',
-            image: 'Images/IMG_0403.jpg',
+            image: 'Images/IMG_0403.JPG',
             description: '<center>Yaquina Head Lighthouse in Oregon. (I crushed my phone while scrambling on some sea rocks in northern Oregon, so this photo is courtesy of Josh.) July 12, 2020.</center>',
             location: {
                 center: [-104.23627, 41.25699],
@@ -773,7 +773,7 @@ var config = {
             alignment: 'center',
             hidden: false,
             title: '',
-            image: 'Images/IMG_8808.jpg',
+            image: 'Images/IMG_8808.JPG',
             description: '<center>On the beach near Santa Barbara, CA. August 11, 2020.</center>',
             location: {
                 center: [-104.23627, 41.25699],
@@ -989,7 +989,7 @@ var config = {
             alignment: 'center',
             hidden: false,
             title: '',
-            image: 'Images/IMG_9076.jpg',
+            image: 'Images/IMG_9076.JPG',
             description: '<center>Josh stands on a boulder overlooking Silver Lake in the Eldorado National Forest, California. Even with all the smoke in the air this was a beautiful spot. August 23, 2020.</center>',
             location: {
                 center: [-107.61188, 35.91253],
@@ -1089,7 +1089,7 @@ var config = {
             alignment: 'center',
             hidden: false,
             title: '',
-            image: 'Images/IMG_9795.jpg',
+            image: 'Images/IMG_9795.JPG',
             description: '<center>Climbing Smithsonian Butte Rd south of Zion National Park. Of course this photo isn\'t representative of the average terrain we traversed. If it was we\'d still be out there! September 12, 2020.</center>',
             location: {
                 center: [-107.61188, 35.91253],
@@ -1139,7 +1139,7 @@ var config = {
             alignment: 'center',
             hidden: false,
             title: '',
-            image: 'Images/IMG_0995.jpg',
+            image: 'Images/IMG_0995.JPG',
             description: '<center>Lower Calf Creek Falls in Grand Staircase-Escalante National Monument, UT. September 18, 2020.</center>',
             location: {
                 center: [-107.61188, 35.91253],
