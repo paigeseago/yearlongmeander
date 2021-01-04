@@ -97,7 +97,7 @@ var config = {
             alignment: 'center',
             hidden: false,
             title: '',
-            image: '../IMG_5327.jpg',
+            image: 'Images/IMG_5327.jpg',
             description: '<center>Sunset at Blackrock Mountain State Park, GA, on the first night of our trip. November 9, 2019.</center>',
             location: {
                 center: [-83.47267, 33.23336],
@@ -146,7 +146,7 @@ var config = {
             alignment: 'center',
             hidden: false,
             title: '',
-            image: '../IMG_5723.jpg',
+            image: 'Images/IMG_5723.jpg',
             description: '<center>The sprawling live oaks of New Orleans provide many good limbs for hanging swings. December 6, 2019.</center>',
             location: {
                 center: [-83.47267, 33.23336],
@@ -194,7 +194,7 @@ var config = {
             alignment: 'center',
             hidden: false,
             title: '',
-            image: '../IMG_5761.jpg',
+            image: 'Images/IMG_5761.jpg',
             description: '<center>View of the Austin skyline from Lady Bird Lake. January 11, 2020.</center>',
             location: {
                 center: [-83.47267, 33.23336],
@@ -286,7 +286,7 @@ var config = {
             alignment: 'center',
             hidden: false,
             title: '',
-            image: '../IMG_6112.jpg',
+            image: 'Images/IMG_6112.jpg',
             description: '<center>Heavy clouds over Big Bend National Park. February 11, 2020.</center>',
             location: {
                 center: [-99.47264, 31.48752],
@@ -326,7 +326,7 @@ var config = {
             alignment: 'center',
             hidden: false,
             title: '',
-            image: '../IMG_6486.jpg',
+            image: 'Images/IMG_6486.jpg',
             description: '<center>White Sands National Park. March 11, 2020.</center>',
             location: {
                 center: [-99.47264, 31.48752],
@@ -366,7 +366,7 @@ var config = {
             alignment: 'center',
             hidden: false,
             title: '',
-            image: '../IMG_6505.jpg',
+            image: 'Images/IMG_6505.jpg',
             description: '<center>Spring wildflowers in the Organ Mountains, New Mexico. March 12, 2020.</center>',
             location: {
                 center: [-99.47264, 31.48752],
@@ -497,7 +497,7 @@ var config = {
             alignment: 'center',
             hidden: false,
             title: '',
-            image: '../IMG_6789.jpg',
+            image: 'Images/IMG_6789.jpg',
             description: '<center>A nest of baby robins at our campsite in Berea, KY. June 3, 2020.</center>',
             location: {
                 center: [-84.88847, 36.99462],
@@ -539,7 +539,7 @@ var config = {
             alignment: 'center',
             hidden: false,
             title: '',
-            image: '../IMG_6798.jpg',
+            image: 'Images/IMG_6798.jpg',
             description: '<center>An unanticipated positive outcome of the pandemic: Josh joining widespread family members via Zoom to play boggle while at a rural campsite near Middlesboro, KY. June 5, 2020.</center>',
             location: {
                 center: [-84.88847, 36.99462],
@@ -581,7 +581,7 @@ var config = {
             alignment: 'center',
             hidden: false,
             title: '',
-            image: '../IMG_6823.jpg',
+            image: 'Images/IMG_6823.jpg',
             description: '<center>A rhododendron flanked stream in Great Smoky Mountains National Park, TN. June 7, 2020.</center>',
             location: {
                 center: [-84.88847, 36.99462],
@@ -665,7 +665,7 @@ var config = {
             alignment: 'full',
             hidden: false,
             title: '',
-            image: '../IMG_7057.jpg',
+            image: 'Images/IMG_7057.jpg',
             description: '<center>Having fun with panoramas and my sister Elayna in Gasworks Park, Seattle, WA. June 22, 2020.</center>',
             location: {
                 center: [-124.23627, 41.25699],
@@ -707,7 +707,7 @@ var config = {
             alignment: 'center',
             hidden: false,
             title: '',
-            image: '../IMG_0403.jpg',
+            image: 'Images/IMG_0403.jpg',
             description: '<center>Yaquina Head Lighthouse in Oregon. (I crushed my phone while scrambling on some sea rocks in northern Oregon, so this photo is courtesy of Josh.) July 12, 2020.</center>',
             location: {
                 center: [-104.23627, 41.25699],
@@ -773,7 +773,7 @@ var config = {
             alignment: 'center',
             hidden: false,
             title: '',
-            image: '../IMG_8808.jpg',
+            image: 'Images/IMG_8808.jpg',
             description: '<center>On the beach near Santa Barbara, CA. August 11, 2020.</center>',
             location: {
                 center: [-104.23627, 41.25699],
@@ -889,7 +889,7 @@ var config = {
             alignment: 'center',
             hidden: false,
             title: '',
-            image: '../IMG_8979.jpg',
+            image: 'Images/IMG_8979.jpg',
             description: '<center>Hazy skies lit up pink well before sunset due to all the smoke in the air. Photo is from a train stop in Salinas, CA, near where we saw the River Fire burning from our train windows. August 18, 2020.</center>',
             location: {
                 center: [-107.61188, 35.91253],
@@ -989,7 +989,7 @@ var config = {
             alignment: 'center',
             hidden: false,
             title: '',
-            image: '../IMG_9076.jpg',
+            image: 'Images/IMG_9076.jpg',
             description: '<center>Josh stands on a boulder overlooking Silver Lake in the Eldorado National Forest, California. Even with all the smoke in the air this was a beautiful spot. August 23, 2020.</center>',
             location: {
                 center: [-107.61188, 35.91253],
@@ -1039,7 +1039,7 @@ var config = {
             alignment: 'center',
             hidden: false,
             title: '',
-            image: '../IMG_9300.jpg',
+            image: 'Images/IMG_9300.jpg',
             description: '<center>Wild burros drinking from a runoff pool at Spencer Hot Springs, NV. August 29, 2020.</center>',
             location: {
                 center: [-107.61188, 35.91253],
@@ -1089,7 +1089,7 @@ var config = {
             alignment: 'center',
             hidden: false,
             title: '',
-            image: '../IMG_9795.jpg',
+            image: 'Images/IMG_9795.jpg',
             description: '<center>Climbing Smithsonian Butte Rd south of Zion National Park. Of course this photo isn\'t representative of the average terrain we traversed. If it was we\'d still be out there! September 12, 2020.</center>',
             location: {
                 center: [-107.61188, 35.91253],
@@ -1139,7 +1139,7 @@ var config = {
             alignment: 'center',
             hidden: false,
             title: '',
-            image: '../IMG_0995.jpg',
+            image: 'Images/IMG_0995.jpg',
             description: '<center>Lower Calf Creek Falls in Grand Staircase-Escalante National Monument, UT. September 18, 2020.</center>',
             location: {
                 center: [-107.61188, 35.91253],
@@ -1231,7 +1231,7 @@ var config = {
             alignment: 'center',
             hidden: false,
             title: '',
-            image: '../IMG_0688.jpg',
+            image: 'Images/IMG_0688.jpg',
             description: '<center>Reedy River Falls in downtown Greenville, SC. October 24, 2020.</center>',
             location: {
                 center: [-83.52882, 34.07023],
@@ -1273,7 +1273,7 @@ var config = {
             alignment: 'center',
             hidden: false,
             title: '',
-            image: '../IMG_0742.jpg',
+            image: 'Images/IMG_0742.jpg',
             description: '<center>A boardwalk through the swamps of Congaree National Park. October 27, 2020.</center>',
             location: {
                 center: [-83.52882, 34.07023],
@@ -1315,7 +1315,7 @@ var config = {
             alignment: 'center',
             hidden: false,
             title: '',
-            image: '../IMG_0824.jpg',
+            image: 'Images/IMG_0824.jpg',
             description: '<center>The firm sands of Folly Beach provided an excellent bicycling surface and these spooky Halloween skies were an added bonus. October 31, 2020.</center>',
             location: {
                 center: [-83.52882, 34.07023],
